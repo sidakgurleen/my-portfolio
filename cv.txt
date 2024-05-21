@@ -1,1 +1,41 @@
 this is my cv
+                                         GURLEEN KAUR                                                                                   gurleenkaursidak369@gmail.com                                                                     6284158901
+LinkedIn-https://www.linkedin.com/in/gurleen-kaur-ab5757229         
+QUALIFICATION
+  ●	Computer Science and Engineering|Guru Nanak Dev University,Amritsar    CGPA:8.32|(Sept ’21-June ’25)
+  ●	XII(CBSE)|Bhai Mastan Singh Public Sen Sec School,Sri Muktsar Sahib                               91.4%|2021      
+  ●	X(CBSE)|Bhai  Mastan Singh Public Sen Sec School,Sri Muktsar Sahib                                       94.4%|2019
+PROJECTS
+Spotify website clone
+  ●	Made a similar styling as a main spotify home page 
+  ●	Added some icons in it
+  ●	Technologies used-HTML,CSS
+Portfolio
+  ●	Made my own portfolio 
+  ●	Added different sections in it-blog section,contact me
+  ●	Technologies-HTML,CSS,Js
+Simon game
+  ●	Made a Simon game 
+  ●	Click on any cube then new cube will get highlighted you need to remember the sequence 
+  ●	Technologies -HTML,CSS,Js
+To-do list
+  ●	To-do list in which you can add  and delete task.
+  ●	Technologies -HTML, CSS,Js 
+Guessing game
+  ●	Enter a number then a person will guess a number 
+  ●	Hint will be given if person guess a small number or large 
+  ●	Technologies -HTML,js
+SKILLS
+  ●	HTML
+  ●	CSS
+  ●	BOOTSTRAP
+  ●	Javascript
+  ●	Nodejs
+  ●	Front end
+  ●	My SQL
+  ● git and github	 
+  ●	Mongodb
+  ●	OOPS concept
+  ●	Java
+
+
